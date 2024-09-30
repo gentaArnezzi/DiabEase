@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # README for Diabetes Prediction App
 
 ## DiabEase: Application Description
@@ -66,7 +65,3 @@ If you have any questions or suggestions, please contact:
 - irgyagentaarnezzi@gmail.com
 - Afzie Muhammad Nurlan
 - afziemuhammad@gmail.com
-=======
-# DiabEase
->>>>>>> origin/main
-# DiabEase
